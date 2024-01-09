@@ -1,6 +1,6 @@
 ### Olá! :wave:
 
-- :mortar_board: Estágiaria Full Stack na Buser Brasil.
+- :mortar_board: Devops Jr at Wex Inc 
 - :books: Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
