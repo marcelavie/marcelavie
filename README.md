@@ -2,6 +2,7 @@
 
 - :mortar_board: Devops Jr at Wex Inc 
 - :books: Análise e Desenvolvimento de Sistemas.
+- 📚: Engenharia de produção - USP
 
 <div align="center">
   <a href="https://github.com/marcelavie">
